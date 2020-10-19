@@ -59,7 +59,7 @@ class _LoginPageState extends State<LoginPage> {
                             padding: EdgeInsets.only(left: 12.0),
                             child: TextFormField(
                               decoration: InputDecoration(
-                                hintText: 'Email',
+                                hintText: 'Your Email',
                                 icon: Icon(Icons.email),
 
 
